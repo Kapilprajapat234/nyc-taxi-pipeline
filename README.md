@@ -186,6 +186,14 @@ Through this project I practiced:
 - Databricks Volumes
 - Git and GitHub project organization
 
+## Visualization
+
+### Trips by Hour
+
+The chart below shows the distribution of taxi trips across different hours of the day.
+
+![Trips by Hour](docs/trips_by_hour.png)
+
 ## Future Improvements
 
 Planned improvements include:
